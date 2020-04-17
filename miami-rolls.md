@@ -92,3 +92,13 @@ Sprinkle plenty of EBS on top.
 Bake for 20 minutes until nice and golden on top.
 Let cool, onions are really hot.
 ```
+
+Lesson learned for next time:
+- More like a hamburger bun texture/taste, but with onion. Want it to be stringier, moister, sweeter, and more yellow.
+- Want to add:
+    - An additional egg yolk
+    - Bread flour over regular flour
+    - More sugar
+    - More kneading
+    - More time to proof (really let it double in size)
+    - Honey?
