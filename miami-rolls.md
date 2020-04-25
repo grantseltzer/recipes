@@ -45,29 +45,37 @@ When ready to bake, place frozen rolls on a greased cookie sheet and let rise, u
 Bake rolls in a preheated hot oven (400 degree F) for 15-30 minutes.
 ```
 
-## First Attempt
+# First Attempt (4/14/20)
+
+## Dough Ingredients
 
 ```
-Dough
+20g Active Dry Yeast [2.85%]
 
-1 package of dry active yeast
-1 cup of warm water
-27g granulated sugar
-6g kosher salt
-700g all purpose flour
-3 large eggs
-6 tbs E.V.O.O
+27g granulated sugar [3.85%]
 
-Filling
+6g kosher salt [0.85%]
+
+700g all purpose flour [100%]
+
+3 large eggs [absent]
+
+6 tbs E.V.O.O [absent]
+```
+
+## Filling Ingredients
+```
 1 Large yellow onion (chopped just slightly larger than diced)
 Sprinkling of salt
 2 tbs E.V.O.O
 
 Everything bagel seasoning (EBS)
+Additional egg for eggwash
+```
 
-Instructions
-
-Whisk yeast with warm water and a pinch of sugar. 
+## Instructions
+```
+Whisk yeast with one cup of warm water and a pinch of sugar. 
 Let sit to activate for 5-10 minutes. 
 Add sugar, salt, and eggs. 
 Stir/beat until well combined. 
