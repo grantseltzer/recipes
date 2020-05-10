@@ -1,25 +1,34 @@
-# Ingredients
+# Tamar's Double Chocolate Brownie Cookies
 
-
+## Ingredients
 
 ```
 45 grams all-purpose flour
-30 grams Dutch-processed cocoa powder
-¾ teaspoon baking powder
-½ teaspoon kosher salt
-225 grams bittersweet chocolate (70 percent), broken or chopped into pieces
-55 grams unsalted butter (1/2 stick)
-2 large eggs, at room temperature
-100 grams granulated sugar
-55 grams light brown sugar
-1 teaspoon vanilla extract
-115 grams bittersweet chocolate chips or chopped chocolate (about 2/3 cup)
 
+30 grams Dutch-processed cocoa powder
+
+3/4 teaspoon baking powder
+
+1/2 teaspoon kosher salt
+
+225 grams bittersweet chocolate (70 percent), broken or chopped into pieces
+
+55 grams unsalted butter (1/2 stick)
+
+2 large eggs, at room temperature
+
+100 grams granulated sugar
+
+55 grams light brown sugar
+
+1 teaspoon vanilla extract
+
+115 grams bittersweet chocolate chips or chopped chocolate (about 2/3 cup)
 ```
 
 ## Steps
-```
 
+```
 Step 1
 Heat oven to 350 degrees. Combine flour, cocoa powder, baking powder and salt in a medium bowl, and whisk to combine. Set aside.
 
@@ -37,6 +46,4 @@ Use a small cookie scoop to scoop dough (which will be pretty runny) into genero
 
 Step 6
 Let cookies cool for a few minutes on the baking sheets, and transfer them to a wire rack to cool further. Scoop any remaining dough onto one of the baking sheets — it’s O.K. to reuse the parchment — and repeat. Cookies will keep in an airtight container at room temperature for 3 to 4 days.
-
-
 ```
