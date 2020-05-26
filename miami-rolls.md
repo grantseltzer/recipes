@@ -110,3 +110,62 @@ Lesson learned for next time:
     - More kneading
     - More time to proof (really let it double in size)
     - Honey?
+
+
+# Second Attempt (5/25/20)
+
+Used propotions from challah recipe instead of iterating on previous one. Feels like a better starting point.
+
+
+```
+300g AP Flour
+
+300g Bread Flour
+
+20g Active Dry Yeast 
+
+1/4c Vegetable Oil
+
+60g Sugar (+ pinch for yeast) 
+
+5g Salt
+
+3 eggs (one is for egg wash)
+
+1 egg yolk
+
+1 large yellow onion
+```
+
+
+```
+- In a large bowl, stir to combine yeast with 15g of sugar and 1.75 cups of warm water. Let sit for ~5 minutes until bubbly and active. 
+
+- Whisk oil into yeast.
+
+- Whisk 2 large eggs + 1 yolk into mixture, one at a time.
+
+- Whisk sugar and salt into mixutre a little a time.
+
+- Gradually add flour a little at time until dough holds together well enough to knead with hands.
+
+- Turn dough onto floured surface and knead thoroughly until it passes a window pane test. 
+
+- Grease a large bowl, place the dough into it then flip the dough over so every side is oiled. Cover with plastic wrap and let rise in a warm place until just about doubled in size. (Can use the turned-off oven. Can also place a small pot of boiling water at the bottom of the oven to provide extra moisture).
+
+- Allow to rise until doubled in size
+
+- Roll out into large oblong shape, cut into 8 even pieces
+
+- Individually flatten each piece, place slices of raw onion, drizzle of olive oil, and seasoning in center.
+
+- Fold into pockets, place on a tray seam side down.
+
+- Egg wash the top, allow to rise again until doubled in size.
+
+- Preheat oven to 400 degrees, egg wash again and cover in seasoning and more raw onion.
+
+- Bake for ~20 minutes until nice and brown on top.
+```
+
+Came out pretty good. Next time I'd add another egg yolk or two and carmelize the onion instead of using raw ones.
