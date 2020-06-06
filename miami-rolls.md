@@ -169,3 +169,62 @@ Used propotions from challah recipe instead of iterating on previous one. Feels 
 ```
 
 Came out pretty good. Next time I'd add another egg yolk or two and carmelize the onion instead of using raw ones.
+
+
+# Third Attempt (6/05/20)
+
+
+```
+450g AP Flour
+
+450g Bread Flour
+
+20g Active Dry Yeast 
+
+1/4c Vegetable Oil
+
+60g Sugar (+ pinch for yeast) 
+
+5g Salt
+
+3 eggs (one is for egg wash)
+
+2 egg yolk
+
+1 large yellow onion
+```
+
+
+```
+- In a large bowl, stir to combine yeast with 15g of sugar and 1.75 cups of warm water. Let sit for ~5 minutes until bubbly and active. 
+
+- Whisk oil into yeast.
+
+- Whisk 2 large eggs + 1 yolk into mixture, one at a time.
+
+- Whisk sugar and salt into mixutre a little a time.
+
+- Gradually add flour a little at time until dough holds together well enough to knead with hands.
+
+- Turn dough onto floured surface and knead thoroughly until it passes a window pane test. 
+
+- Grease a large bowl, place the dough into it then flip the dough over so every side is oiled. Cover with plastic wrap and let rise in a warm place until just about doubled in size. (Can use the turned-off oven. Can also place a small pot of boiling water at the bottom of the oven to provide extra moisture).
+
+- Allow to rise until doubled in size
+
+- Roll out into large oblong shape, cut into 8 even pieces
+
+- Individually flatten each piece, place slices of raw onion, drizzle of olive oil, and seasoning in center.
+
+- Fold into pockets, place on a tray seam side down.
+
+- Egg wash the top, allow to rise again until doubled in size.
+
+- Preheat oven to 400 degrees, egg wash again and cover in seasoning and more raw onion.
+
+- Bake for ~15 minutes until nice and brown on top.
+```
+
+Came out not very flavorful and too big and airy for target texture. After adding 2 egg yolks the dough was just too sticky so I had to add so much more flour. Beautiful texture for a sandwich but needs to be a lot denser and stringier. 
+
+I'd try the original 300g of each type of flour, and only add 1 more egg yolk. Also I'd cut the yeast, this rose a lot and became very airy. Maybe 15g instead of 20g at first. 
